@@ -1,0 +1,8 @@
+E-tiffin is an online food marketplace where anyone can sell and buy food. here i used MEAN stack to implement the whole project as best to my abilities.
+the welcome page and styling in the project is very minimal as i didnt get enough time to do the designing.
+there are 2 users admin and user:
+1. user can add and read from the mongo db.
+2. admin can update and remove data.
+
+once logged in the user can press the menu button to see and order the item. pressing the add button the same user can add new items to menu
+the menu is catagorised into 3 breakfast, lunch, dinner.all of them are saved in the same collection.
